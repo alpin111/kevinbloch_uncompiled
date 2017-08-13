@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+
+<title>Portfolio</title>
+
+<meta charset="UTF-8">
+<meta name="description" content="A project.">
+<meta name="keywords" content="copywriter, texter, konzept, Kevin Bloch">
+<meta name="author" content="Kevin Bloch">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="js/tracking.js"></script>
+</head>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="css/typewriter.css">
+<script src="js/store.js"></script>
+
+
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+var page = "portfolio";
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+
+<script src="js/nav.js"></script>
+<script>
+$(window).scroll(function() {
+    var scroll = $(window).scrollTop();
+
+    if (scroll >= 20) {
+        $("header").addClass("scrolledHeader");
+        $("nav").addClass("scrollednav");
+        $(".scroll").addClass("scroll_element");
+
+    } else {
+        $("header").removeClass("scrolledHeader");
+        $("nav").removeClass("scrollednav");
+        $(".scroll").removeClass("scroll_element");
+    }
+});
+</script>
+<link rel="stylesheet" type="text/css" href="css/nav.css">
+
+
+<body>
+<link rel="stylesheet" type="text/css" href="css/projects.css">
+
+
+
+
+
+
+
+
+
+<div class="info">
+<script src="js/info.js"></script>
+
+
+
+<div class="scroll">
+
+  <a href="#gallery">scroll down</a>
+  <script>
+  $('a').click(function(){
+      $('html, body').animate({
+          scrollTop: $( $(this).attr('href') ).offset().top
+      }, 500);
+      return false;
+  });
+  </script>
+</div>
+
+</div>
+
+
+
+
+
+
+ <div class="gallery" id = "gallery">
+              <script src="js/video.js"></script>
+              <script src="js/gallery.js"></script>
+</div>
+
+
+<div class="backbutton_end">
+  <script>
+  document.write(
+  '<a href="portfolio?='+ lang +'">back</a>'
+  );
+  </script>
+
+</div>
+
+
+</body>
+</html>

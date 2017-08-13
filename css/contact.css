@@ -1,0 +1,16 @@
+
+  body {
+    background: blue !important;
+    color: white !important;
+  }
+
+a {color: white !important;}
+
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: white; !important}
+}
+
+.languages {display: none;}

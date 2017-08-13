@@ -1,0 +1,17 @@
+
+
+
+.portfolio a {
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.project_client_span {
+  font-size: 0.6em;
+  line-height: 0em;
+}
+
+
+.one-project {
+  margin-bottom: 1em;
+}

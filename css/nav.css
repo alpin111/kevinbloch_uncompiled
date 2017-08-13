@@ -1,0 +1,47 @@
+
+
+
+
+
+
+/* NAVIGATION ******************************************************************************************************/
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li { display: inline;
+  margin-right: 1em;}
+
+nav .active a{
+  text-decoration: None;
+  color: blue;
+  border-right: .1em solid black;
+  animation:
+    typing 0.5s steps(40, end),
+    blink-caret 1.0s step-end infinite;
+}
+
+
+header{line-height: 1em;}
+
+nav {
+  font-size: 0.8em;
+  margin-bottom: 1.5em;
+}
+
+.languages {
+  position: absolute;
+  right: 1em;
+  font-size: 0.8em;
+  top: 1.7em;
+}
+
+.active2 a {
+  text-decoration: None;
+  color: blue !important;
+}

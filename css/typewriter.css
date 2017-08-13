@@ -1,0 +1,89 @@
+
+
+
+
+  /*******************************************************************************************************/
+
+  body {
+    margin: 1.5em;
+  }
+
+.en {
+  color: white;
+  background-color: black;
+}
+
+.en a {color: white;}
+
+.de a {color:black;}
+
+.de {
+  color: black;
+  background-color: white;
+}
+
+
+
+
+
+.type-it, body  {
+  font-family: "Segoe UI","Helvetica Neue";
+  font-weight: 500;
+  font-size: 1.7em;
+  line-height: 1em;
+  }
+
+.about, .contact  {
+  font-size: 1.7em;
+  line-height: 1em;
+}
+
+
+
+
+  body a {
+  text-decoration: underline;
+  border-right: .1em solid transparent;
+
+  }
+
+
+ a:hover {
+     color:blue;
+     text-decoration: none;
+     animation:
+       typing 0.5s steps(40, end),
+       blink-caret 1.0s step-end infinite;
+  }
+
+
+
+
+
+  /*******************************************************************************************************/
+
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black; }
+  }
+
+
+
+  /*responsive */
+  /*******************************************************************************************************//*******************************************************************************************************/
+  @media only screen and (max-width: 950px){
+    body  {
+      font-size: 0.8em;
+        }
+  }
+
+
+  @media (min-width: 1680px) {
+    body {font-size: 2.5em;}
