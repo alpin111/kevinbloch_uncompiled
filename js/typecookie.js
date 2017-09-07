@@ -23,7 +23,7 @@ $('.type-it').typeIt({
   callback: set_cookie(),
   cursor: false,
   speed: 30,
-  strings: [eval(str_1,' ', eval(str_2),' ', eval(str_3)]
+  strings: [eval(str_1),' ', eval(str_2),' ', eval(str_3)]
 });
  }
 

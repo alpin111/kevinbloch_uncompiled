@@ -16,6 +16,8 @@ if (lang == null){
 
 
 
+
+
 document.write(
 '<header>'+
 '<nav><ul>'+

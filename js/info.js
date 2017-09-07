@@ -20,17 +20,10 @@ var lang = getLanguage(projectname);
 
 
 
-var client = slice + ".client"
-document.write('<span class="client_span">' + eval(client) + '</span><br>');
+document.write('<span class="client_span">' + window[slice]['client'] + '</span><br>');
 
+document.write('<span class="name_span">' + window[slice]["name_" + lang] + '</span><br><br>');
 
-var name = slice + ".name_" + lang
-document.write('<span class="name_span">' + eval(name) + '</span><br><br>');
+document.write('<span class="description_span">' +  window[slice]["project_" + lang] + '<br>—<br>');
 
-
-var project = slice + ".project_" + lang
-document.write('<span class="description_span">' +  eval(project) + '<br>—<br>');
-
-
-var special = slice + ".special_" + lang
-document.write(eval(special) + '<br>' + '</span>');
+document.write( window[slice]["special_" + lang]  + '<br>' + '</span>');

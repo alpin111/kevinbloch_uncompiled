@@ -7,7 +7,11 @@
 <meta name="keywords" content="copywriter, texter, konzept, Kevin Bloch">
 <meta name="author" content="Kevin Bloch">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script src="js/tracking.js"></script>
+<script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script>
+<script>
+var galite = galite || {};
+galite.UA = 'UA-104470631-1'; // Insert your tracking code here
+</script>
 </head>
 
 
@@ -40,7 +44,7 @@ var page = "about";
 <div class="about">
   <script>
   document.write(
-  eval("about."+lang)
+  about[lang]
 );
 </script>
 
