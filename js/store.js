@@ -57,20 +57,20 @@ images : 8,
 
 
 
- dksh = {
-   string : "dksh",
-  client : "DKSH",
-
-  name_en : "Asia Print Ads",
-  project_en : "A print ad campaign that demonstrates DKSH's footing in Asia.",
-  special_en : "",
-
-  name_de : "Druckanzeigen für Asien",
-  project_de : "Eine Anzeige-Kampagne, die DKSHs lange Erfahrung in Asien demonstriert.",
-  special_de : "",
-
-  images : 1,
-  },
+ // dksh = {
+ //   string : "dksh",
+ //  client : "DKSH",
+ //
+ //  name_en : "Asia Print Ads",
+ //  project_en : "A print ad campaign that demonstrates DKSH's footing in Asia.",
+ //  special_en : "",
+ //
+ //  name_de : "Druckanzeigen für Asien",
+ //  project_de : "Eine Anzeige-Kampagne, die DKSHs lange Erfahrung in Asien demonstriert.",
+ //  special_de : "",
+ //
+ //  images : 1,
+ //  },
 
 
 
@@ -209,20 +209,20 @@ images : 8,
 
 
 
- rog = {
-   string : "rog",
-  client : "Reporters without borders",
-
-  name_en : "Putin Video Ad",
-  project_en : "A video raising awareness of the journalists' rights being threatened.",
-  special_en : "",
-
-  name_de : "Putin Video",
-  project_de : "Ein Video, das auf die bedrohten Rechte von Journalisten aufmerksam machen soll.",
-  special_de : "",
-
-  images : 0,
-  },
+ // rog = {
+ //   string : "rog",
+ //  client : "Reporters without borders",
+ //
+ //  name_en : "Putin Video Ad",
+ //  project_en : "A video raising awareness of the journalists' rights being threatened.",
+ //  special_en : "",
+ //
+ //  name_de : "Putin Video",
+ //  project_de : "Ein Video, das auf die bedrohten Rechte von Journalisten aufmerksam machen soll.",
+ //  special_de : "",
+ //
+ //  images : 0,
+ //  },
 
 
 

@@ -17,11 +17,11 @@
  about = {
    en : "I'm a copywriter based in Zurich. I write and conceptualize in English and German." +
  "<br><br>"+
- "I began working as a copywriter at Y&R Zurich where I learned from the best. I conceptualized campaigns and had to write them out, too - nerdy ones for Microsoft, sensual ones for Marionnaud, and sterile ones for Novartis."+
+ "I began working as a copywriter at Y&R Zurich where I learned from the best. I conceptualized campaigns and had to write them too - nerdy ones for Microsoft, sensual ones for Marionnaud, and sterile ones for Novartis."+
  "<br><br>"+
 "I majored in English Literature, Linguistics and Philosophy at the University of Zurich where I acquired a firm grasp on language, narrative techniques and argumentative concepts."+
  "<br><br>"+
- "In my spare time I'm either in the mountains or programming. The latter gives me an edge in conceptualizing digital campaigns."+
+ "In my spare time I'm either in the mountains or programming. The former keeps me sane, the latter gives me an edge in conceptualizing digital campaigns."+
  "<br><br>"+
  "Today I work for several agencies such as KiloKilo and TBS & Partner, which is also where my office is."+
  "<br><br>"+
@@ -34,7 +34,7 @@ de: "Ich arbeite als Texter in Zürich und schreibe auf Englisch und Deutsch." +
  "<br><br>"+
  "Mein Master in Englischer Literatur, Linguistik und Philosophie an der Universität Zürich ermöglicht mir einen sicheren Umgang mit Sprache, Erzähltechniken und Argumentationsstrategien."+
 "<br><br>"+
- "In meiner Freizeit bin ich entweder in den Bergen oder am Programmieren. Letzteres gibt mir ein Vorteil beim Konzipieren von digitalen Kampagnen."+
+ "In meiner Freizeit bin ich entweder in den Bergen oder am Programmieren. Ersteres schützt vor Wahnsinn, Letzteres gibt mir einen Vorteil beim Konzipieren von digitalen Kampagnen."+
 "<br><br>"+
  "Heute arbeite ich für verschiedene Agenturen wie KiloKilo oder TBS & Partner, wo ich auch zuhause bin."+
  "<br><br>"+

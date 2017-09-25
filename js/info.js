@@ -1,21 +1,6 @@
 
 
 
-var projectname = location.search;
-// function you can use:
-function getSecondPart(str) {
-    return str.split('=')[2];
-}
-
-function getLanguage(str) {
-    return str.split('=')[1];
-}
-
-// use the function:
-var slice =getSecondPart(projectname);
-
-var lang = getLanguage(projectname);
-
 
 
 
