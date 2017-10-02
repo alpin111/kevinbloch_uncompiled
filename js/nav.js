@@ -48,7 +48,7 @@ if (lang == "de") {
   var home = "Home"
   var portfolio = "Projects"
   var about = "About"
-  var contact = "Contakt"
+  var contact = "Contact"
 }
 
 document.write(

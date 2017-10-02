@@ -21,24 +21,24 @@
  "<br><br>"+
 "I majored in English Literature, Linguistics and Philosophy at the University of Zurich where I acquired a firm grasp on language, narrative techniques and argumentative concepts."+
  "<br><br>"+
- "In my spare time I'm either in the mountains or programming. The former keeps me sane, the latter gives me an edge in conceptualizing digital campaigns."+
- "<br><br>"+
- "Today I work for several agencies such as KiloKilo and TBS & Partner, which is also where my office is."+
+ // "In my spare time I'm either in the mountains or programming. The former keeps me sane, the latter gives me an edge in conceptualizing digital campaigns."+
+ // "<br><br>"+
+ "Today I work for several agencies such as KiloKilo, distylerie, TBS & Partner or private clients such as ewz."+
  "<br><br>"+
  "I'm always interested in freelance work and flexible regarding when and where. Feel free to <a href='contact'>contact</a> me.",
 
 
 de: "Ich arbeite als Texter in Zürich und schreibe auf Englisch und Deutsch." +
  "<br><br>"+
-"Ich begann als Werbetexter bei Y&R Zürich, wo ich von den besten lernte. Ich konzeptualisierte Kampagnen und musste sie auch noch schreiben - in nerdigem Stil für Microsoft, sinnlich für Marionnaud und steril für Novartis."+
+"Ich begann als Werbetexter bei Y&R Zürich, wo ich von den Besten lernte. Ich konzeptualisierte Kampagnen und musste sie auch noch schreiben - in nerdigem Stil für Microsoft, sinnlich für Marionnaud und steril für Novartis."+
  "<br><br>"+
  "Mein Master in Englischer Literatur, Linguistik und Philosophie an der Universität Zürich ermöglicht mir einen sicheren Umgang mit Sprache, Erzähltechniken und Argumentationsstrategien."+
 "<br><br>"+
- "In meiner Freizeit bin ich entweder in den Bergen oder am Programmieren. Ersteres schützt vor Wahnsinn, Letzteres gibt mir einen Vorteil beim Konzipieren von digitalen Kampagnen."+
-"<br><br>"+
- "Heute arbeite ich für verschiedene Agenturen wie KiloKilo oder TBS & Partner, wo ich auch zuhause bin."+
+//  "In meiner Freizeit bin ich entweder in den Bergen oder am Programmieren. Ersteres schützt vor Wahnsinn, Letzteres gibt mir einen Vorteil beim Konzipieren von digitalen Kampagnen."+
+// "<br><br>"+
+ "Heute arbeite ich für verschiedene Agenturen wie KiloKilo, distylerie, TBS & Partner oder Privatkunden wie ewz."+
  "<br><br>"+
- "Ich bin immer interessiert an Freelance-Arbeit und flexibel wo und wann."
+ "Ich bin immer interessiert an <a href='contact'>Anfragen</a> für Freelance-Arbeit und flexibel wo und wann."
 
  },
 ] ;
